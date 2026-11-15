@@ -114,7 +114,7 @@ We welcome community contributions! To add a new platform, connector library, or
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Update** your entry in `README.md` following the established table structure.
-3. ⭐ Ensure open-source projects include an active GitHub Stars_Badge linking to their stargazers page.
+3. ⭐ Ensure open-source projects include an active GitHub_Stars_Badge linking to their stargazers page.
 4. 🔍 Keep descriptions concise, factual, and include starting pricing and transparent free tier limits.
 5. 🚀 Submit a **Pull Request** with a brief summary of the proposed changes.
 
