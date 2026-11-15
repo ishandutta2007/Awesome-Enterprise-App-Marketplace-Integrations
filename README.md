@@ -79,9 +79,9 @@ Open-source marketplace frameworks and integration catalogs empower developers t
 
 ### 🏆 Ranked by GitHub Community Stars
 
-All repositories below are strictly sorted in descending order by GitHub community star count. Each star badge links directly to the stargazers page of that repository.
+All repositories below are strictly sorted in descending order by GitHub community Stars_Count. Each Stars_Badge links directly to the stargazers page of that repository.
 
-| Project | Stars | License | Primary Stack | Core Description & Best Use Case |
+| Project | GitHub_Stars | License | Primary Stack | Core Description & Best Use Case |
 |:---|:---:|:---:|:---:|:---|
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Sustainable Use License | TypeScript / Node.js | **Leading self-hosted workflow automation & iPaaS engine.** Boasts 400+ pre-built integration nodes, community node sharing, visual flow builder, and native AI/LangChain/MCP support. **Best for:** Teams seeking a self-hosted, enterprise-grade integration engine with an enormous connector ecosystem. |
 | **[Appwrite](https://github.com/appwrite/appwrite)** | [![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers) | BSD-3-Clause | C++ / PHP / Docker | **Self-hosted Backend-as-a-Service with a comprehensive Functions & Integrations Marketplace.** Offers pre-built function templates, third-party authentication connectors, webhooks, and storage adapters. **Best for:** Builders looking to roll out modular backend services with drop-in integrations. |
@@ -114,7 +114,7 @@ We welcome community contributions! To add a new platform, connector library, or
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Update** your entry in `README.md` following the established table structure.
-3. ⭐ Ensure open-source projects include an active GitHub star badge linking to their stargazers page.
+3. ⭐ Ensure open-source projects include an active GitHub Stars_Badge linking to their stargazers page.
 4. 🔍 Keep descriptions concise, factual, and include starting pricing and transparent free tier limits.
 5. 🚀 Submit a **Pull Request** with a brief summary of the proposed changes.
 
