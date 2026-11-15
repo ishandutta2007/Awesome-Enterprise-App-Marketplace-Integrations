@@ -1,6 +1,6 @@
 # Awesome-Enterprise-App-Marketplace-Integrations
 
-# Top Enterprise App Marketplace & Integrations Ecosystem
+## Top Enterprise App Marketplace & Integrations Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Ecosystem Extension, Embedded Integration Catalogs & Self-Hosted Marketplaces*  
